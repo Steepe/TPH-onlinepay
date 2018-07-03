@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f80b5d7-3114-40fc-aa64-82d9c7397517" name="OnlinePay" url="https://www.thispresenthouse.org/onlinepay">
+        <fileTransfer host="cloud227.hostgator.com" port="21" rootFolder="/public_html/onlinepay" username="tphroot" password="df9adfdbdff9dfd8df87df9fdfe6dfe9dfc8dfebdf87dffd">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
